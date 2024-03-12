@@ -1,0 +1,17 @@
+{
+    "layer": "bottom",
+    "position": "top",
+    "height": 10,
+    "spacing": 4,
+    "exclusive": false,
+    "modules-left": [],
+    "modules-center": ["custom/quote"],
+    "modules-right": [],
+
+    "custom/quote": {
+        "exec": "cat ~/.config/waybar-quotes/picked_quote.txt",
+	"interval": 1,
+        "tooltip": false,
+        "on-click": "~/.config/waybar-quotes/quote_picker.sh"
+    }
+}
