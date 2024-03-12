@@ -10,8 +10,8 @@
 
     "custom/quote": {
         "exec": "cat ~/.config/waybar-quotes/picked_quote.txt",
-	"interval": 1,
         "tooltip": false,
-        "on-click": "~/.config/waybar-quotes/quote_picker.sh"
+        "on-click": "~/.config/waybar-quotes/quote_picker.sh",
+        "signal": 1
     }
 }
