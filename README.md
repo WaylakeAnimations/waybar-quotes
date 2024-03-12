@@ -9,11 +9,19 @@ Highly configurable random text splash module that can be used to replace hyprla
 
 ### Installation :
 - Create a new directory
-```mkdir ~/.config/waybar-quotes```
+```
+mkdir ~/.config/waybar-quotes
+```
 - Go to the directory you've made
-```cd ~/.config/waybar-quotes```
+```
+cd ~/.config/waybar-quotes
+```
 - Clone this repo
-```git clone https://github.com/PigmanBruh/waybar-quotes.git```
+```
+git clone https://github.com/PigmanBruh/waybar-quotes.git
+```
 - Add this to your auto-start entry
-```waybar -c ~/.config/waybar-quotes/config.jsonc -s ~/.config/waybar-quotes/style.css```
-for example, on hyprland, `exec-once' is used for auto-starting
+```
+waybar -c ~/.config/waybar-quotes/config.jsonc -s ~/.config/waybar-quotes/style.css
+```
+on hyprland for example, `exec-once` is used for auto-starting
