@@ -1,20 +1,16 @@
 # waybar-quotes
 Highly configurable random text splash module that can be used to replace hyprland's text splash system.
 
-### Main features :
+### Main features
 - Ability to add custom quotes yourself,
-- Can be styled just like any other waybar modules (font, color, etc.),
-- Quote can be rerolled (by left-clicking the text),
-- It's Pretty lightweight.
+- Can be customized just like any other waybar modules (font, color, etc.),
+- Quote can be re-rolled by left-clicking the text,
+- It's pretty lightweight.
 
-### Installation :
-- Create a new directory
+### Installation
+- Go to the `.config` directory
 ```
-mkdir ~/.config/waybar-quotes
-```
-- Go to the directory you've made
-```
-cd ~/.config/waybar-quotes
+cd ~/.config/
 ```
 - Clone this repo
 ```
@@ -22,6 +18,15 @@ git clone https://github.com/PigmanBruh/waybar-quotes.git
 ```
 - Add this to your auto-start entry
 ```
+bash ~/.config/waybar-quotes/quote_picker.sh
 waybar -c ~/.config/waybar-quotes/config.jsonc -s ~/.config/waybar-quotes/style.css
 ```
-on hyprland for example, `exec-once` is used for auto-starting
+on hyprland for example, `exec-once` is used for auto-starting<br><br>
+The font i use here is [Outfit](https://fonts.google.com/specimen/Outfit)
+
+### How This Works
+- `quote_picker.sh` randomly select a line from `quotes.txt` and save it to `picked_quote.txt`
+- Waybar starts with the wm
+- The waybar module read `picked_quote.txt` every second
+- The quote is displayed
+- The script executes again when you click the text and the quote gets re-rolled
