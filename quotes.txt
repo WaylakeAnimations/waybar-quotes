@@ -2,15 +2,11 @@ Quote entries for waybar-quote
 All entries must start with '-'
 Anything other than that is considered to be a comment
 
-
 Blue Archive
-
 -"If you believe your bikini bottoms are panties, then they're panties" - Sensei
 
-
-Modern Warfare
-
--"Soap trusted you" - Captain Price
+Modern Warfare (OG)
+-"Soap trusted you, i thought i could too" - Captain Price
 -"5 years ago, i lost 30,000 men in the blink of an eye" - General Shepherd
 -"Nice!, your fruit killing skill are remarkable" - Gaz
 -"Remember, switching to your pistol is always faster than reloading" - Gaz
@@ -18,4 +14,23 @@ Modern Warfare
 -"Patience, don't do anything stupid" - Captain MacMillan
 -"RAMIREZ!!!" - Sgt. Foley
 -"You're going out there, are you nuts ?!" - Cpl. Dunn
--"Remember, No Russian" - Vladimir Makarov
+-"Remember, No Russian" - Makarov
+-"What choice do i have, he got his own reason for wanting makarov dead" - Captain Price
+-"This is it, Makarov doesn't leave here alive" - Captain Price
+
+Black Ops Cold War
+-"I'm a goddamn onion, Mason" - Woods
+
+Minecraft
+-"Wake up" - Minecraft End Poem
+-"Also Try Terraria" - Minecraft Splash Text
+-"What's up" - Enderman
+-"Dadadada dada Villager News..." - Element Animation Villagers
+
+God of War
+-"Zeus, ZEUS!!!" - Kratos
+-"There are consequences of killing a god!" - Kratos
+-"Zeus, your son has returned, i bring the destruction of Olympus!" - Kratos
+
+Mortal Kombat
+-"I must consult with the Elder Gods" - Raiden
