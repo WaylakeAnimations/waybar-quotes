@@ -4,6 +4,7 @@ Anything other than that is considered to be a comment
 
 Blue Archive
 -"If you believe your bikini bottoms are panties, then they're panties" - Sensei
+-"Blinding Light!" - Aris
 
 Modern Warfare (OG)
 -"Soap trusted you, i thought i could too" - Captain Price
@@ -23,9 +24,27 @@ Black Ops Cold War
 
 Minecraft
 -"Wake up" - Minecraft End Poem
--"Also Try Terraria" - Minecraft Splash Text
 -"What's up" - Enderman
 -"Dadadada dada Villager News..." - Element Animation Villagers
+-"Made in Sweden!" - Minecraft Splash Text
+-"Absolutely no memes!" - Minecraft Splash Text
+-"Now on OpenGL 3.2 core profile!" - Minecraft Splash Text
+-"4815162342 lines of code!" - Minecraft Splash Text
+-"Follow the train, CJ!" - Minecraft Splash Text
+"This message will never appear on the splash screen, isn't that weird?" - Minecraft Splash Text
+-"Check out the far lands!" - Minecraft Splash Text
+-"Also try Terraria!" - Minecraft Splash Text
+-"/give @a hugs 64" - Minecraft Splash Text
+-"Any computer is a laptop if you're brave enough!" - Minecraft Splash Text
+-"Absolutely fixed relatively broken coordinates" - Minecraft Splash Text
+-"Look mum, I'm in a splash!" - Minecraft Splash Text
+-"Ph1lza had a good run!" - Minecraft Splash Text
+-"10 years of Mining and Crafting!" - Minecraft Splash Text
+-"In case it isn't obvious, foxes aren't players." - Minecraft Splash Text
+-"Minecraft Java Edition presents: Disgusting Bugs" - Minecraft Splash Text
+-"#minecraftfarms" - Minecraft Splash Text
+-"Vanilla!" - Minecraft Splash Text
+-"Technoblade never dies!" - Minecraft Splash Text
 
 God of War
 -"Zeus, ZEUS!!!" - Kratos
@@ -34,3 +53,28 @@ God of War
 
 Mortal Kombat
 -"I must consult with the Elder Gods" - Raiden
+
+Hyprland - https://github.com/hyprwm/Hyprland/blob/a2ecca936e9e1e7a77fa06e04f71bdc5fe8b4bbd/src/helpers/Splashes.hpp
+-"Woo, animations!" - Hyprland
+-"It's like Hypr, but better." - Hyprland
+-"Release 1.0 when?" - Hyprland
+-"It's not awesome, it's Hyprland!" - Hyprland
+-"I commit too often, people can't catch up lmao" - Vaxry
+-"This text is random." - Hyprland
+-"There are reasons to not use rust." - Boga
+-"Read the wiki." - Hyprland
+-"Hello everyone this is YOUR daily dose of ‘read the wiki’" - Vaxry
+-"‘why no work’, bro I haven't hacked your pc to get live feeds yet" - Vaxry
+-"Compile, wait for 20 minutes, notice a new commit, compile again." - Hyprland
+-"To rice, or not to rice, that is the question." - Hyprland
+-"Now available on Fedora!" - Hyprland
+-"The AUR packages always work, except for the times they don't." - Hyprland
+-"Funny animation compositor woo" - Hyprland
+
+Unknowns
+-"Discord calls will be redirected to /dev/null" - Unknown
+-"I have learned blender, and i will use the entire blender" - Unknown
+-"I've bought the speedometer, and i will use the entire speedometer" - Unknown
+
+Linux-related stuff
+-"This incident will be reported" - sudo
