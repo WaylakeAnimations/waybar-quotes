@@ -3,7 +3,7 @@
 Highly configurable random splash text system that can be used to replace hyprland's text splash system.
 
 ### Features
-- Ability to add custom quotes yourself,
+- Ability to add, edit, or delete quotes yourself,
 - Can be customized just like any other waybar modules (font, color, etc.),
 - Quote can be re-rolled by left-clicking the text,
 - Modular (you could literally hook this up with anything that can read and display a text file)
