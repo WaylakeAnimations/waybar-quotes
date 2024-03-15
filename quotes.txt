@@ -5,6 +5,11 @@ Anything other than that is considered to be a comment
 Blue Archive
 -"If you believe your bikini bottoms are panties, then they're panties" - Sensei
 -"Blinding Light!" - Aris
+-"Only you can save us from this twisted, distorted fate." - GSC President
+-"Nihahaha" - Koyuki
+-"buruu... archaifuu..." - Title Screen
+-"I'm a standing guard here." - Sensei
+
 
 Modern Warfare (OG)
 -"Soap trusted you, i thought i could too" - Captain Price
@@ -14,10 +19,25 @@ Modern Warfare (OG)
 -"On your feet soldier, we are leaving!" - Captain Price
 -"Patience, don't do anything stupid" - Captain MacMillan
 -"RAMIREZ!!!" - Sgt. Foley
--"You're going out there, are you nuts ?!" - Cpl. Dunn
 -"Remember, No Russian" - Makarov
--"What choice do i have, he got his own reason for wanting makarov dead" - Captain Price
 -"This is it, Makarov doesn't leave here alive" - Captain Price
+-"The more things change, the more they stay the same." - General Shepherd
+-"We are the most powerful military force in the history of man. Every fight is our fight." - General Shepherd
+-"This man Makarov is fighting his own war and he has no rules. No boundaries." - General Shepherd
+-"Do you have the DSM?. Good, that's one less loose end." - General Shepherd
+-"You know what they say about revenge: you better be ready to dig two graves." - General Shepherd
+-"Right... what the hell kind of name is "Soap", eh? How'd a muppet like you pass selection?" - Captain Price
+-"Do not trust Shepherd! I say again, do not trust Shepherd!" - Captain Price
+-"Makarov, you ever hear the old saying: "the enemy of my enemy is my friend"?" - Captain Price
+-"Price, one day you're going to find that cuts both ways." - Makarov
+-"Looking forward to it. Give my regards to Imran Zakhaev if you get there first." - Captain Price
+-"This is for the record. History is written by the victor. History is filled with liars." - Captain Price
+-"Shepherd will be a hero, 'cause all you need to change the world is one good lie and a river of blood." - Captain Price
+-"Shepherd created a war, but only we knew the truth." - Captain Price
+-"The only truth I found is that the world we live in is a giant tinderbox." - Captain Price
+-"What you taught me to do, kill 'em all" - Captain Price
+-"How quickly they forget that all it takes to change the course of history, is the will of a single man." - Captain Price
+-"This is for Soap." - Captain Price
 
 Black Ops Cold War
 -"I'm a goddamn onion, Mason" - Woods
@@ -26,25 +46,24 @@ Minecraft
 -"Wake up" - Minecraft End Poem
 -"What's up" - Enderman
 -"Dadadada dada Villager News..." - Element Animation Villagers
--"Made in Sweden!" - Minecraft Splash Text
--"Absolutely no memes!" - Minecraft Splash Text
--"Now on OpenGL 3.2 core profile!" - Minecraft Splash Text
--"4815162342 lines of code!" - Minecraft Splash Text
--"Follow the train, CJ!" - Minecraft Splash Text
-"This message will never appear on the splash screen, isn't that weird?" - Minecraft Splash Text
--"Check out the far lands!" - Minecraft Splash Text
--"Also try Terraria!" - Minecraft Splash Text
--"/give @a hugs 64" - Minecraft Splash Text
--"Any computer is a laptop if you're brave enough!" - Minecraft Splash Text
--"Absolutely fixed relatively broken coordinates" - Minecraft Splash Text
--"Look mum, I'm in a splash!" - Minecraft Splash Text
--"Ph1lza had a good run!" - Minecraft Splash Text
--"10 years of Mining and Crafting!" - Minecraft Splash Text
--"In case it isn't obvious, foxes aren't players." - Minecraft Splash Text
--"Minecraft Java Edition presents: Disgusting Bugs" - Minecraft Splash Text
--"#minecraftfarms" - Minecraft Splash Text
--"Vanilla!" - Minecraft Splash Text
--"Technoblade never dies!" - Minecraft Splash Text
+-"Made in Sweden!" - Minecraft
+-"Absolutely no memes!" - Minecraft
+-"Now on OpenGL 3.2 core profile!" - Minecraft
+-"Follow the train, CJ!" - Minecraft
+"This message will never appear on the splash screen, isn't that weird?" - Minecraft
+-"Check out the far lands!" - Minecraft
+-"Also try Terraria!" - Minecraft
+-"/give @a hugs 64" - Minecraft
+-"Any computer is a laptop if you're brave enough!" - Minecraft
+-"Absolutely fixed relatively broken coordinates" - Minecraft
+-"Look mum, I'm in a splash!" - Minecraft
+-"Ph1lza had a good run!" - Minecraft
+-"10 years of Mining and Crafting!" - Minecraft
+-"In case it isn't obvious, foxes aren't players." - Minecraft
+-"Minecraft Java Edition presents: Disgusting Bugs" - Minecraft
+-"#minecraftfarms" - Minecraft
+-"Vanilla!" - Minecraft
+-"Technoblade never dies!" - Minecraft
 
 God of War
 -"Zeus, ZEUS!!!" - Kratos
@@ -71,10 +90,9 @@ Hyprland - https://github.com/hyprwm/Hyprland/blob/a2ecca936e9e1e7a77fa06e04f71b
 -"The AUR packages always work, except for the times they don't." - Hyprland
 -"Funny animation compositor woo" - Hyprland
 
-Unknowns
+
+Misc
 -"Discord calls will be redirected to /dev/null" - Unknown
 -"I have learned blender, and i will use the entire blender" - Unknown
 -"I've bought the speedometer, and i will use the entire speedometer" - Unknown
-
-Linux-related stuff
 -"This incident will be reported" - sudo

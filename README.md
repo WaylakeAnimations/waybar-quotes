@@ -1,13 +1,14 @@
 ![banner](https://github.com/PigmanBruh/waybar-quotes/assets/87263998/1e875c4f-39d3-4f8f-9be3-55958e0e2c6c)
 # waybar-quotes
-Highly configurable random splash text system that can be used to replace hyprland's text splash system.
+Highly configurable random splash text system that can be used to replace hyprland's text splash system.<br><br>
+Keyword : "can be used", not "should" or "must"<br><br>
+I originally wrote this to replace Hyprland's uneditable splash text system, but you can hook it up into anything really.
 
 ### Features
 - Ability to add, edit, or delete quotes yourself,
 - Can be customized just like any other waybar modules (font, color, etc.),
 - Quote can be re-rolled by left-clicking the text,
 - Modular (you could literally hook this up with anything that can read and display a text file)
-- It's pretty lightweight.
 
 ### Installation
 - Go to the `.config` directory
