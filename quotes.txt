@@ -10,6 +10,19 @@ Blue Archive
 -"buruu... archaifuu..." - Title Screen
 -"I'm a standing guard here." - Sensei
 
+ULTRAKILL
+-"BEHOLD, THE POWER OF AN ANGEL!" - Gabriel
+-"May your woes be many, and your days few" - Gabriel
+-"And thy punishment, is death!" - Minos Prime
+-"Judgement!" - Minos Prime
+-"Prepare thyself!" - Minos Prime
+-"Come forth, child of man, and die!" - Sisyphus Prime
+-"This prison, to hold, ME!" - Sisyphus Prime
+-"Limbo, lust, all gone" - Gabriel
+-"TIME TO RIGHT MY WRONG!" - Gabriel
+-"I SHOW YOU DIVINE JUSTICE! - Gabriel
+-"This will hurt" - Sisyphus Prime
+
 
 Modern Warfare (OG)
 -"Soap trusted you, i thought i could too" - Captain Price
