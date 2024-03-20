@@ -1,14 +1,10 @@
-* {
-    font-family: Outfit, Arial, sans-serif;
-    font-size: 13px;
-}
-
 window#waybar {
     background-color: transparent;
 }
 
 #custom-quote {
-    padding-top: 1px;
-    padding-right: 3px;
+    padding-top: 0px;
     color: #999999;
+    font-family: Outfit, Arial, sans-serif;
+    font-size: 13px;
 }
