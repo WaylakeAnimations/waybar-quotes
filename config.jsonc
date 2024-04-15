@@ -8,9 +8,9 @@
     "modules-right": [],
 
     "custom/quote": {
-        "exec": "cat ~/.config/waybar-quotes/picked_quote.txt",
+        "exec": "cat ~/.waybar-quotes/picked.txt",
         "tooltip": false,
-        "on-click": "~/.config/waybar-quotes/quote_picker.sh",
+        "on-click": "$(cat ~/.waybar-quotes/dir.txt)/quote_picker.sh",
         "signal": 1
     }
 }

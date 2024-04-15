@@ -1,13 +1,18 @@
 #!/bin/bash
 
-PICKED=$((1 + $RANDOM % $(sed -n '$=' ~/.config/waybar-quotes/quotes.txt)))
+mkdir ~/.waybar-quotes
 
-TEXT=$(head -$PICKED ~/.config/waybar-quotes/quotes.txt | tail +$PICKED)
+CURRENT_DIR=$(dirname -- "${BASH_SOURCE[0]}")
+echo $CURRENT_DIR > ~/.waybar-quotes/dir.txt
 
-if [[ $TEXT == '-'* ]] ;
+grep '[^[:space:]]' $CURRENT_DIR/quotes.txt > ~/.waybar-quotes/quotes_no_comments.txt
+sed -i '/^#/d' ~/.waybar-quotes/quotes_no_comments.txt
+
+PICKED=$((1 + $RANDOM % $(sed -n '$=' ~/.waybar-quotes/quotes_no_comments.txt)))
+
+head -$PICKED ~/.waybar-quotes/quotes_no_comments.txt | tail +$PICKED > ~/.waybar-quotes/picked.txt
+
+if [ $'(cat ~/.waybar-quotes/picked.txt)' == '' ] ; 
 then
-    echo $(echo $TEXT | sed 's/^.//') > ~/.config/waybar-quotes/picked_quote.txt
-else
     bash $0
 fi
-
