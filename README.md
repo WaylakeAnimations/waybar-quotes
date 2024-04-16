@@ -1,7 +1,5 @@
 ![banner](https://github.com/PigmanBruh/waybar-quotes/assets/87263998/1e875c4f-39d3-4f8f-9be3-55958e0e2c6c)
 # waybar-quotes
-Highly configurable random splash text system that can be used to replace hyprland's text splash system.<br><br>
-Keyword : "can be used", not "should" or "must"<br><br>
 I originally wrote this to replace Hyprland's uneditable splash text system, but you can hook it up into anything really.
 
 ### Features
@@ -32,7 +30,8 @@ The font i use here is [Outfit](https://fonts.google.com/specimen/Outfit)
 
 ### How This Works
 - Waybar starts with the wm and execute the script
-- `quote_picker.sh` randomly select a line from `quotes.txt` and save it to `picked_quote.txt`
-- The waybar module read `picked_quote.txt`
+- The script removed comments and empty lines, and then save it into a separate file
+- The script picks a random line from the processed entries and write it into `picked.txt`
+- The waybar module read `picked.txt`
 - The quote is displayed
 - The script executes again when you click the text and the quote gets re-rolled
