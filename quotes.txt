@@ -101,8 +101,12 @@
 "Funny animation compositor woo" - Hyprland
 
 
+# My Own
+"Discord calls will be redirected to /dev/null" - PigmanBruh
+"I have learned blender, and i will use the entire blender" - PigmanBruh
+"Well, this is official, i'm a Blue Archive content creator now" - PigmanBruh
+"Definitely not BlueSechi's alt account (even though i use blue MC skin)" - PigmanBruh
+
 # Misc
-"Discord calls will be redirected to /dev/null" - Unknown
-"I have learned blender, and i will use the entire blender" - Unknown
 "I've bought the speedometer, and i will use the entire speedometer" - Unknown
 "This incident will be reported" - sudo
