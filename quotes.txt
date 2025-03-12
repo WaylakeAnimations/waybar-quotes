@@ -12,6 +12,9 @@
 "Kuuyaashiii..." - Momoi
 "buruu... archaifuu..." - Title Screen
 
+# BA Fandom
+"Never kill yourself" - Shoori
+
 # ULTRAKILL
 "BEHOLD, THE POWER OF AN ANGEL!" - Gabriel
 "May your woes be many, and your days few" - Gabriel
@@ -107,8 +110,8 @@
 # My Own
 "Discord calls will be redirected to /dev/null" - Waylake
 "I have learned blender, and i will use the entire blender" - Waylake
+"There's a reason why my username is WaylakeAnimations, not WaylakeArts" - Waylake
 "Well, this is official, i'm a Blue Archive content creator now" - Waylake
-"Definitely not BlueSechi's alt account (despite having blue MC skin)" - Waylake
 "And here i am casually naming my creator club after a sword from Hypixel Skyblock" - Waylake
 "Not affiliated with the Github user with the username 'waylake'" - WaylakeAnimations
 "Dear github.com/waylake, if you read this then... GG" - WaylakeAnimations
