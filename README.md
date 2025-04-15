@@ -15,7 +15,7 @@ cd ~/.config/
 ```
 - Clone this repo
 ```
-git clone https://github.com/PigmanBruh/waybar-quotes.git
+git clone https://github.com/WaylakeAnimations/waybar-quotes.git
 ```
 - Give executable permission to the script
 ```
