@@ -4,7 +4,7 @@
 "I, AM STEVE" - Steve
 
 # Blue Archive
-"If you believe your bikini bottoms are panties, then they're panties" - Sensei
+"If you believe your bikini bottoms are panties, then they're panties" - Hanako
 "Blinding Light!" - Aris
 "Only you can save us from this twisted, distorted fate." - GSC President
 "Nihahaha" - Koyuki
@@ -120,3 +120,4 @@
 # Misc
 "I've bought the speedometer, and i will use the entire speedometer" - Unknown
 "This incident will be reported" - sudo
+
